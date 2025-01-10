@@ -10,7 +10,7 @@ If you want to fabricate your own PCBs from a PCB manufacturer of your choice, y
 - **Layers**: 2
 - **PCB Thickness**: 1.2 mm
 - **PCB Color**: any (green is usually cheaper and faster to produce, but black also looks nice and might blend with the black outer case)
--- **Surface finish**: HASL or ENIG (gold plating)
+- **Surface finish**: HASL or ENIG (gold plating)
 - **Outer Copper Weight**: 1 oz
 - **Via Covering**: Tented
 - **Mark on PCB**: Remove Mark (JLCPCB specific, now free of charge)
