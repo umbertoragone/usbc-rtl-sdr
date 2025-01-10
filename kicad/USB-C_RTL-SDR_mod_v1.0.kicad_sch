@@ -1961,6 +1961,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C25905"
+			(at 157.48 114.935 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "76ae322f-1acb-47ab-b2fd-31c344aab139")
 		)
@@ -2047,9 +2056,9 @@
 		(at 179.07 62.23 90)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board no)
-		(dnp no)
+		(dnp yes)
 		(uuid "0bb3654f-4557-4b9c-b3ee-7e7ec32db6ed")
 		(property "Reference" "TP2"
 			(at 172.72 62.23 90)
@@ -2112,9 +2121,9 @@
 		(at 179.07 67.31 90)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board no)
-		(dnp no)
+		(dnp yes)
 		(uuid "1d443f3d-a17e-4bd2-a756-055c06174ff1")
 		(property "Reference" "TP4"
 			(at 172.72 67.31 90)
@@ -2177,9 +2186,9 @@
 		(at 179.07 59.69 90)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board no)
-		(dnp no)
+		(dnp yes)
 		(uuid "268d875f-b0fd-4e1f-bda9-15c05d417bb2")
 		(property "Reference" "TP1"
 			(at 172.72 59.69 90)
@@ -2355,6 +2364,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C2988369"
+			(at 131.445 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "A1"
 			(uuid "e1920589-6a3d-4330-aa4c-093690af0b71")
 		)
@@ -2461,6 +2479,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 163.83 112.395 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C25905"
 			(at 163.83 112.395 0)
 			(effects
 				(font
@@ -2619,9 +2646,9 @@
 		(at 128.27 66.04 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "b17cb12b-cd90-4835-9937-1e67fa29d9e9")
 		(property "Reference" "J2"
 			(at 128.27 53.975 0)
@@ -2648,7 +2675,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" " ~"
+		(property "Datasheet" "~"
 			(at 132.08 67.31 0)
 			(effects
 				(font
@@ -2760,9 +2787,9 @@
 		(at 179.07 64.77 90)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board no)
-		(dnp no)
+		(dnp yes)
 		(uuid "e39713a4-b8c9-4f7e-9c63-e2a7a252f15b")
 		(property "Reference" "TP3"
 			(at 172.72 64.77 90)
