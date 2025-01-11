@@ -1,4 +1,5 @@
 # USB-C RTL-SDR mod
+An adapter board to convert your RTL-SDR V3 or V4 from USB A to USB C. **Available for purchase on [Tindie](https://www.tindie.com/products/ragone/usb-c-rtl-sdr-v3v4-mod/)!**
 
 <img src="/images/img_1.jpg?raw=true" alt="USB-C RTL-SDR v3" width=400 /> <img src="/images/img_2.jpg?raw=true" alt="USB-C RTL-SDR v3" width=400 />
 
@@ -24,3 +25,6 @@ Included in this repository is the HTML BOM (`ibom.html`) to help you in the ass
 | ------------ | ----------------------- | ----------------- | ------------------------------------------------------------- | --- |
 | R1, R2       | 5k1 1%                  | R_0402_1005Metric | [C25905](https://www.lcsc.com/product-detail/C25905.html)     | 2   |
 | USB1         | USB_C_Receptacle_USB2.0 | TYPE-C-31-M-12    | [C2988369](https://www.lcsc.com/product-detail/C2988369.html) | 1   |
+
+## Prebuilt option
+If you're looking for an adapter board that's already assembled and ready to install on your RTL-SDR dongle, I offer a prebuilt option that's perfect for those who want a plug-and-play solution without the hassle of sourcing and assembling components. Each board is handcrafted and fully tested before shipping. **[Check it out on my Tindie store](https://www.tindie.com/products/ragone/usb-c-rtl-sdr-v3v4-mod/)**.
