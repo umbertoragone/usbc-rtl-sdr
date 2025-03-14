@@ -1,5 +1,5 @@
 # USB-C RTL-SDR mod
-An adapter board to convert your RTL-SDR V3 or V4 from USB A to USB C. **Available for purchase on [Tindie](https://www.tindie.com/products/ragone/usb-c-rtl-sdr-v3v4-mod/) or [Lectronz](https://lectronz.com/products/usb-c-rtl-sdr-v3-v4-mod)!**
+An adapter board to convert your RTL-SDR V3 or V4 USB-A (male) to USB-C (female). **Available for purchase on [Tindie](https://www.tindie.com/products/ragone/usb-c-rtl-sdr-v3v4-mod/) or [Lectronz](https://lectronz.com/products/usb-c-rtl-sdr-v3-v4-mod)!**
 
 <img src="/images/img_1.jpg?raw=true" alt="USB-C RTL-SDR v3" width=400 /> <img src="/images/img_2.jpg?raw=true" alt="USB-C RTL-SDR v3" width=400 />
 
