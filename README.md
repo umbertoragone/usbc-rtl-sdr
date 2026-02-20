@@ -29,7 +29,7 @@ Included in this repository is the HTML BOM (`ibom.html`) to help you in the ass
 | USB1         | USB_C_Receptacle_USB2.0 | TYPE-C-31-M-12    | [C2988369](https://www.lcsc.com/product-detail/C2988369.html) | 1   |
 
 ## How to perform the mod
-1. Open the case of your RTL-SDR dongle by unscrewing the 4 screws on the USB A side.
+1. Open the case of your RTL-SDR dongle by unscrewing the 2 screws on the USB A side.
 2. Unscrew the locking nut on the SMA connector and make sure to remember the order they go in.
 3. Carefully slide out the PCB from the metal housing.
 4. Desolder the USB A connector from the board and clean the pads from any residual solder.
